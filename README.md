@@ -7,3 +7,5 @@ A simple To Do list app built with [jQuery](https://jquery.com/) to track daily 
 - jQuery
 - HTML
 - CSS
+
+## View [Live](https://codepen.io/laura-rodd/full/mdVOWxM)
